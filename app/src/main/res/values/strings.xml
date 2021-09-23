@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlappyBird</string>
+    <string name="rate">RATE</string>
+    <string name="exit">EXIT</string>
+    <string name="todo">TODO</string>
+    <string name="flappy_bird">FLAPPY BIRD</string>
+</resources>
